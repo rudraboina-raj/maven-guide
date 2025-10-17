@@ -14,4 +14,4 @@ It is a  build/project management tool
 
 * when maven Command is given, it looks for " pom.xml" in Current directory.
 
-Maren is a build tool which is used to automate the build process for Java applications.
+Maven is a build tool which is used to automate the build process for Java applications.
