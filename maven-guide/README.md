@@ -1,5 +1,6 @@
 # maven-guide
 detailed explaination on build tool
+
 Maven-build tool
 -------------------------------------------------------
 It is a  build/project management tool
@@ -16,7 +17,7 @@ It is a  build/project management tool
 
 Maven is a build tool which is used to automate the build process for Java applications.
 
-What is build process?
+What is build process ?
 ------------------------------------------------------------------
 Downloading the required dependencies, Compiling the project Source code, executing the unit test cases, and packing the project as a jar file or war file. is called build process.
 
@@ -27,7 +28,7 @@ maven Software is developed by Apache Organisation and it is free  and open sour
 It is developed by using Java and we can use it for java projects build automation. 
 
 
-What actually Maven do
+What actually Maven do ?
 --------------------------------------------------------------------
 1.Compile into byte-cade
 
